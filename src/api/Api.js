@@ -1,4 +1,4 @@
-import { fetchData } from './Backend';
+import fetchData from './Backend';
 
 const TodoApi = {
   add(body) {
